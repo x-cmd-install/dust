@@ -1,0 +1,61 @@
+about:
+  description: A more intuitive version of du in rust
+  license: Apache-2.0
+  homepage: 
+  head: 8a846f6
+  archived: false
+  latestVersion: v1.2.5
+  collectedAt: 2026-09-04T05:04:27Z
+timeline:
+  created: 2018-03-16
+  lastCommit: 2026-08-18
+  lastRelease: 2026-08-19
+popularity:
+  star: 12216
+  watcher: 38
+  fork: 286
+  release: 50
+  contributor: 84
+  pullRequest: 65
+  issue: 251
+language:
+  Rust: 150193
+  Shell: 20757
+  PowerShell: 13848
+  Elvish: 7317
+  Roff: 6353
+  RenderScript: 1
+totalLine: 198469
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 17
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 25
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 4
+    openIssue: 1
+    commit: 30
+  last180d:
+    since: 2026-03-08
+    release: 1
+    mergedPR: 28
+    openPR: 3
+    closedIssue: 7
+    openIssue: 1
+    commit: 36
+  last360d:
+    since: 2025-09-09
+    release: 2
+    mergedPR: 46
+    openPR: 3
+    closedIssue: 17
+    openIssue: 3
+    commit: 61
