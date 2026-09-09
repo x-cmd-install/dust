@@ -7,7 +7,7 @@ A more intuitive version of du in rust
 - **Latest release**: `v1.2.5` (2026-08-19)
 - **Last commit**: 2026-08-18
 - **License**: Apache-2.0
-- **Stars**: 12231 · **Forks**: 287 · **Open issues**: 251 · **Contributors**: 84
+- **Stars**: 12238 · **Forks**: 288 · **Open issues**: 251 · **Contributors**: 84
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/dust> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:29:14Z._
+_Last regenerated: 2026-09-09T04:33:33Z._
