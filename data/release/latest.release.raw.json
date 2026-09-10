@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 951124,
       "digest": "sha256:42056f56bce095830d1c87f560f04a2c58ad6ac8e658cc44f78d25a8fa796920",
-      "download_count": 496,
+      "download_count": 508,
       "created_at": "2026-08-19T20:02:53Z",
       "updated_at": "2026-08-19T20:02:54Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1040581,
       "digest": "sha256:7f17449fecff70cce61e6060fac490dfe66b1b40ee1639bc1f72d121b846e364",
-      "download_count": 577,
+      "download_count": 590,
       "created_at": "2026-08-19T20:01:32Z",
       "updated_at": "2026-08-19T20:01:33Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 984742,
       "digest": "sha256:7e632381a04d7e95fa62c50b7faefa8f89b3896552d66d7f075b9cc7728d58af",
-      "download_count": 124,
+      "download_count": 126,
       "created_at": "2026-08-19T20:03:47Z",
       "updated_at": "2026-08-19T20:03:47Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1110196,
       "digest": "sha256:83b8d5b068bdbfd1952a55c8419e77c413d1c084ce7f7369d28f9be36d66dd6a",
-      "download_count": 806,
+      "download_count": 825,
       "created_at": "2026-08-20T07:42:44Z",
       "updated_at": "2026-08-20T07:42:45Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1131020,
       "digest": "sha256:331b328233a70e56f0509ff962b2a6ea606eb2e654ce8a0e9a3bebe1bd54a2be",
-      "download_count": 349,
+      "download_count": 353,
       "created_at": "2026-08-19T20:01:56Z",
       "updated_at": "2026-08-19T20:01:56Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1124025,
       "digest": "sha256:e714a1cbd5a375489d06653256cd39b5144351fee0a21b00a694fc70d2f1c892",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-20T07:42:54Z",
       "updated_at": "2026-08-20T07:42:54Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1145339,
       "digest": "sha256:79aefa8471dc4c0b0e6c897eb851f752f65728d8f69b757cf4ec6e8ef6966796",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-19T20:01:42Z",
       "updated_at": "2026-08-19T20:01:42Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1131972,
       "digest": "sha256:5e0e37abe5501109d0244b44d9b4eb5ef8f4c81d89bd7996f55f5597d195640d",
-      "download_count": 79,
+      "download_count": 82,
       "created_at": "2026-08-19T20:03:42Z",
       "updated_at": "2026-08-19T20:03:43Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-gnu.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 975908,
       "digest": "sha256:8c3051b7d212fc5d1c77302f38fe745d1b23d8ed534d7a0bf1ac8a0e6dcb2c91",
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2026-08-19T20:03:20Z",
       "updated_at": "2026-08-19T20:03:20Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1191436,
       "digest": "sha256:a9b4a80e5e12b3879f7556b4cf96c41ec54594668d5c48dcb56a70fbb68bc32d",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-08-19T20:02:00Z",
       "updated_at": "2026-08-19T20:02:00Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-gnu.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1122946,
       "digest": "sha256:29566236d7a5e2afbc3fcf2d365845a4eaf0fc969a4ed9f8b878bc1a4fc7d2b8",
-      "download_count": 1260,
+      "download_count": 1286,
       "created_at": "2026-08-19T20:01:31Z",
       "updated_at": "2026-08-19T20:01:32Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1086843,
       "digest": "sha256:795b69d46a3e4befe37bbf7fe9e8654832883d3b8d8d6e77bae5f14be5842491",
-      "download_count": 1563,
+      "download_count": 1591,
       "created_at": "2026-08-19T20:03:29Z",
       "updated_at": "2026-08-19T20:03:29Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-gnu.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1078894,
       "digest": "sha256:b2731d92066d5787a106c0c835b96c6a4ba186d81abc0ead0a906f75d5f09aee",
-      "download_count": 2514,
+      "download_count": 2551,
       "created_at": "2026-08-19T20:02:47Z",
       "updated_at": "2026-08-19T20:02:47Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1192709,
       "digest": "sha256:64b16f5c10cc4c25d2eaa144e9d2d44b3ed8f72ee63b3bc0a92c85e21e9e0932",
-      "download_count": 6687,
+      "download_count": 6794,
       "created_at": "2026-08-19T20:02:03Z",
       "updated_at": "2026-08-19T20:02:03Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1255296,
       "digest": "sha256:79813b5743fab1e04c1d9c34042aab865dbe09efb76719e7c7d260568850fabc",
-      "download_count": 3422,
+      "download_count": 3498,
       "created_at": "2026-08-19T20:02:53Z",
       "updated_at": "2026-08-19T20:02:54Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz"
