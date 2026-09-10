@@ -22,11 +22,33 @@ x install dust
 - **Latest**: `v1.2.5` (2026-08-19)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
-- **Published**: 2026-08-19T20:01:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [du-dust_1.2.5-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_amd64.deb) | 928.8 KiB | `runtime/deb/amd64` |
+| [du-dust_1.2.5-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_i386.deb) | 913.9 KiB | `runtime/deb/i386` |
+| [dust-v1.2.5-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-apple-darwin.tar.gz) | 1016.2 KiB | `native/darwin/arm64` |
+| [dust-v1.2.5-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-pc-windows-msvc.zip) | 961.7 KiB | `native/win/arm64` |
+| [dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
+| [dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
+| [dust-v1.2.5-i686-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
+| [dust-v1.2.5-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip) | 953.0 KiB | `native/win/x64` |
+| [dust-v1.2.5-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
+| [dust-v1.2.5-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x86/musl` |
+| [dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
+| [dust-v1.2.5-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
+| [dust-v1.2.5-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.5-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 12,240 · **Forks**: 289 · **Open issues**: 251 · **Contributors**: 85
+- **Stars**: 12,241 · **Forks**: 289 · **Open issues**: 251 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -67,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dust` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dust.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dust.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:30:57Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:37Z._

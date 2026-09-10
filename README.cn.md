@@ -4,7 +4,7 @@
 
 A more intuitive version of du in rust
 
-![dust](https://repo.x-cmd.io/dust.svg)
+![dust](https://repo.x-cmd.io/dust.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,33 @@ x install dust
 - **最新版本**: `v1.2.5` (2026-08-19)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 18 个
-- **发布时间**: 2026-08-19T20:01:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [du-dust_1.2.5-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_amd64.deb) | 928.8 KiB | `runtime/deb/amd64` |
+| [du-dust_1.2.5-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_i386.deb) | 913.9 KiB | `runtime/deb/i386` |
+| [dust-v1.2.5-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-apple-darwin.tar.gz) | 1016.2 KiB | `native/darwin/arm64` |
+| [dust-v1.2.5-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-pc-windows-msvc.zip) | 961.7 KiB | `native/win/arm64` |
+| [dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
+| [dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
+| [dust-v1.2.5-i686-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
+| [dust-v1.2.5-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip) | 953.0 KiB | `native/win/x64` |
+| [dust-v1.2.5-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
+| [dust-v1.2.5-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x86/musl` |
+| [dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
+| [dust-v1.2.5-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
+| [dust-v1.2.5-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.5-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 12,240 · **Fork**: 289 · **开放 issue**: 251 · **贡献者**: 85
+- **Star**: 12,241 · **Fork**: 289 · **开放 issue**: 251 · **贡献者**: 85
 
 ## 累计统计
 
@@ -71,4 +93,4 @@ dust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:38Z._
