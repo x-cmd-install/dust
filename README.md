@@ -14,15 +14,15 @@ x install dust
 
 ## Code insight
 
-Total: **4,613** lines of code across **26** files in the top 5 languages.
+Total: **4,615** lines of code across **26** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,804 | 323 | 559 | 17 |
+| Rust | 3,805 | 326 | 560 | 17 |
 | Sh | 231 | 36 | 53 | 4 |
 | Bash | 212 | 0 | 3 | 1 |
 | PowerShell | 116 | 3 | 9 | 2 |
-| Toml | 101 | 14 | 24 | 2 |
+| Toml | 102 | 14 | 24 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,51 +41,50 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.2.5` (2026-08-19)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 18
+- **Latest**: `v1.2.6` (2026-09-16)
+- **Last commit**: 2026-09-16
+- **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 12,266 · **Forks**: 290 · **Open issues**: 251 · **Contributors**: 85
+- **Stars**: 12,268 · **Forks**: 290 · **Open issues**: 251 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 282 · **Open PRs**: 3 · **Closed issues**: 246 · **Open issues**: 5 · **Commits**: 631
+- **Releases**: 51 · **Merged PRs**: 284 · **Open PRs**: 3 · **Closed issues**: 246 · **Open issues**: 5 · **Commits**: 633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 5 | 1 | 0 | 0 | 4 |
-| last60d | 2026-07-18 | 1 | 23 | 1 | 3 | 1 | 31 |
-| 90d | 2026-06-18 | 1 | 25 | 1 | 3 | 1 | 32 |
-| last180d | 2026-03-20 | 1 | 30 | 2 | 7 | 1 | 39 |
-| 360d | 2025-09-21 | 2 | 50 | 2 | 17 | 3 | 67 |
-| last720d | 2024-09-26 | 7 | 86 | 3 | 54 | 5 | 113 |
+| 30d | 2026-08-18 | 2 | 6 | 1 | 0 | 0 | 5 |
+| last60d | 2026-07-19 | 2 | 25 | 1 | 3 | 1 | 32 |
+| 90d | 2026-06-19 | 2 | 27 | 1 | 3 | 1 | 33 |
+| last180d | 2026-03-21 | 2 | 32 | 2 | 7 | 1 | 41 |
+| 360d | 2025-09-22 | 3 | 52 | 2 | 17 | 3 | 69 |
+| last720d | 2024-09-27 | 8 | 88 | 3 | 54 | 5 | 115 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [du-dust_1.2.5-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_amd64.deb) | 928.8 KiB | `runtime/deb/amd64` |
-| [du-dust_1.2.5-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.5/du-dust_1.2.5-1_i386.deb) | 913.9 KiB | `runtime/deb/i386` |
-| [dust-v1.2.5-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-apple-darwin.tar.gz) | 1016.2 KiB | `native/darwin/arm64` |
-| [dust-v1.2.5-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-pc-windows-msvc.zip) | 961.7 KiB | `native/win/arm64` |
-| [dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
-| [dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
-| [dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
-| [dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
-| [dust-v1.2.5-i686-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
-| [dust-v1.2.5-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip) | 953.0 KiB | `native/win/x64` |
-| [dust-v1.2.5-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
-| [dust-v1.2.5-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x86/musl` |
-| [dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
-| [dust-v1.2.5-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
-| [dust-v1.2.5-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
-| [dust-v1.2.5-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
-| [dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
-| [dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [du-dust_1.2.6-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.6/du-dust_1.2.6-1_amd64.deb) | 930.3 KiB | `runtime/deb/amd64` |
+| [du-dust_1.2.6-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.6/du-dust_1.2.6-1_i386.deb) | 917.2 KiB | `runtime/deb/i386` |
+| [dust-v1.2.6-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-apple-darwin.tar.gz) | 1019.9 KiB | `native/darwin/arm64` |
+| [dust-v1.2.6-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-pc-windows-msvc.zip) | 969.8 KiB | `native/win/arm64` |
+| [dust-v1.2.6-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [dust-v1.2.6-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
+| [dust-v1.2.6-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [dust-v1.2.6-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
+| [dust-v1.2.6-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-pc-windows-msvc.zip) | 957.8 KiB | `native/win/x64` |
+| [dust-v1.2.6-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
+| [dust-v1.2.6-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x86/musl` |
+| [dust-v1.2.6-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
+| [dust-v1.2.6-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
+| [dust-v1.2.6-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.6-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [dust-v1.2.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -96,4 +95,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:50:13Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:48:50Z._
