@@ -4,7 +4,7 @@
 
 A more intuitive version of du in rust
 
-![dust](https://repo.x-cmd.io/dust.svg)
+[![x-cmd/install — dust Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dust.svg)](https://x-cmd.com/install/dust)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,271 · **Forks**: 290 · **Open issues**: 251 · **Contributors**: 85
+- **Stars**: 12,278 · **Forks**: 291 · **Open issues**: 251 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 6 | 1 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 2 | 25 | 1 | 3 | 1 | 32 |
-| 90d | 2026-06-20 | 2 | 26 | 1 | 3 | 1 | 33 |
-| last180d | 2026-03-22 | 2 | 32 | 2 | 7 | 1 | 41 |
-| 360d | 2025-09-23 | 3 | 52 | 2 | 17 | 3 | 69 |
-| last720d | 2024-09-28 | 8 | 88 | 3 | 54 | 5 | 115 |
+| 30d | 2026-08-21 | 1 | 6 | 1 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 2 | 25 | 1 | 2 | 1 | 32 |
+| 90d | 2026-06-22 | 2 | 26 | 1 | 3 | 1 | 33 |
+| last180d | 2026-03-24 | 2 | 31 | 2 | 6 | 1 | 41 |
+| 360d | 2025-09-25 | 3 | 52 | 2 | 17 | 3 | 69 |
+| last720d | 2024-09-30 | 8 | 88 | 3 | 54 | 5 | 115 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:35:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:58:59Z._
