@@ -14,11 +14,11 @@ x install dust
 
 ## Code insight
 
-Total: **4,638** lines of code across **26** files in the top 5 languages.
+Total: **4,767** lines of code across **26** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,828 | 330 | 561 | 17 |
+| Rust | 3,957 | 420 | 575 | 17 |
 | Sh | 231 | 36 | 53 | 4 |
 | Bash | 212 | 0 | 3 | 1 |
 | PowerShell | 116 | 3 | 9 | 2 |
@@ -26,7 +26,7 @@ Total: **4,638** lines of code across **26** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.6` (2026-09-16)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 12,550 · **Forks**: 302 · **Open issues**: 253 · **Contributors**: 88
+- **Stars**: 12,554 · **Forks**: 302 · **Open issues**: 253 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 288 · **Open PRs**: 4 · **Closed issues**: 248 · **Open issues**: 5 · **Commits**: 637
+- **Releases**: 51 · **Merged PRs**: 290 · **Open PRs**: 4 · **Closed issues**: 248 · **Open issues**: 5 · **Commits**: 643
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 3 | 2 | 2 | 0 | 2 |
-| last60d | 2026-08-28 | 1 | 10 | 3 | 2 | 0 | 8 |
-| 90d | 2026-07-29 | 2 | 27 | 3 | 4 | 1 | 34 |
-| last180d | 2026-04-30 | 2 | 33 | 3 | 7 | 1 | 40 |
-| 360d | 2025-11-01 | 3 | 52 | 3 | 18 | 3 | 69 |
-| last720d | 2024-11-06 | 8 | 91 | 4 | 51 | 5 | 118 |
+| 30d | 2026-09-28 | 0 | 4 | 3 | 2 | 0 | 4 |
+| last60d | 2026-08-29 | 1 | 12 | 3 | 2 | 0 | 11 |
+| 90d | 2026-07-30 | 2 | 29 | 3 | 4 | 1 | 37 |
+| last180d | 2026-05-01 | 2 | 35 | 3 | 7 | 1 | 44 |
+| 360d | 2025-11-02 | 3 | 54 | 3 | 18 | 3 | 75 |
+| last720d | 2024-11-07 | 8 | 92 | 4 | 51 | 5 | 124 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:54:43Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:29:10Z._
