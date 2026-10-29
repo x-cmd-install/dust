@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,554 · **Forks**: 302 · **Open issues**: 253 · **Contributors**: 88
+- **Stars**: 12,562 · **Forks**: 303 · **Open issues**: 253 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 4 | 3 | 2 | 0 | 4 |
-| last60d | 2026-08-29 | 1 | 12 | 3 | 2 | 0 | 11 |
-| 90d | 2026-07-30 | 2 | 29 | 3 | 4 | 1 | 37 |
-| last180d | 2026-05-01 | 2 | 35 | 3 | 7 | 1 | 44 |
-| 360d | 2025-11-02 | 3 | 54 | 3 | 18 | 3 | 75 |
-| last720d | 2024-11-07 | 8 | 92 | 4 | 51 | 5 | 124 |
+| 30d | 2026-09-29 | 0 | 3 | 3 | 1 | 0 | 4 |
+| last60d | 2026-08-30 | 1 | 12 | 3 | 2 | 0 | 11 |
+| 90d | 2026-07-31 | 2 | 29 | 3 | 4 | 1 | 37 |
+| last180d | 2026-05-02 | 2 | 35 | 3 | 7 | 1 | 44 |
+| 360d | 2025-11-03 | 3 | 54 | 3 | 18 | 3 | 75 |
+| last720d | 2024-11-08 | 8 | 92 | 4 | 51 | 5 | 124 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:29:10Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:37:44Z._
