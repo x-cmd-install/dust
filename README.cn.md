@@ -14,11 +14,11 @@ x install dust
 
 ## 代码洞察
 
-合计: **4,767** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
+合计: **4,776** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 3,957 | 420 | 575 | 17 |
+| Rust | 3,966 | 423 | 575 | 17 |
 | Sh | 231 | 36 | 53 | 4 |
 | Bash | 212 | 0 | 3 | 1 |
 | PowerShell | 116 | 3 | 9 | 2 |
@@ -41,50 +41,51 @@ x install dust
 
 ## 发布
 
-- **最新版本**: `v1.2.6` (2026-09-16)
-- **最近提交**: 2026-10-30
-- **Release 含资产**: 17 个
+- **最新版本**: `v1.2.7` (2026-11-01)
+- **最近提交**: 2026-11-01
+- **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 12,571 · **Fork**: 306 · **开放 issue**: 253 · **贡献者**: 88
+- **Star**: 12,573 · **Fork**: 307 · **开放 issue**: 254 · **贡献者**: 90
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 292 · **开放 PR**: 4 · **已关闭 issue**: 248 · **开放 issue**: 5 · **提交数**: 645
+- **发布数**: 52 · **已合并 PR**: 295 · **开放 PR**: 2 · **已关闭 issue**: 249 · **开放 issue**: 5 · **提交数**: 648
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 5 | 3 | 1 | 0 | 6 |
-| last60d | 2026-09-02 | 1 | 13 | 3 | 2 | 0 | 13 |
-| 90d | 2026-08-03 | 2 | 31 | 3 | 4 | 1 | 39 |
-| last180d | 2026-05-05 | 2 | 37 | 3 | 7 | 1 | 46 |
-| 360d | 2025-11-06 | 3 | 56 | 3 | 18 | 3 | 77 |
-| last720d | 2024-11-11 | 8 | 94 | 4 | 51 | 5 | 124 |
+| 30d | 2026-10-03 | 1 | 8 | 1 | 2 | 0 | 8 |
+| last60d | 2026-09-03 | 2 | 16 | 1 | 3 | 0 | 15 |
+| 90d | 2026-08-04 | 3 | 34 | 1 | 5 | 0 | 42 |
+| last180d | 2026-05-06 | 3 | 40 | 1 | 8 | 1 | 48 |
+| 360d | 2025-11-07 | 4 | 58 | 1 | 19 | 3 | 79 |
+| last720d | 2024-11-12 | 9 | 97 | 2 | 52 | 5 | 127 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [du-dust_1.2.6-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.6/du-dust_1.2.6-1_amd64.deb) | 930.3 KiB | `runtime/deb/amd64` |
-| [du-dust_1.2.6-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.6/du-dust_1.2.6-1_i386.deb) | 917.2 KiB | `runtime/deb/i386` |
-| [dust-v1.2.6-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-apple-darwin.tar.gz) | 1019.9 KiB | `native/darwin/arm64` |
-| [dust-v1.2.6-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-pc-windows-msvc.zip) | 969.8 KiB | `native/win/arm64` |
-| [dust-v1.2.6-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
-| [dust-v1.2.6-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
-| [dust-v1.2.6-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
-| [dust-v1.2.6-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
-| [dust-v1.2.6-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-pc-windows-msvc.zip) | 957.8 KiB | `native/win/x64` |
-| [dust-v1.2.6-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
-| [dust-v1.2.6-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-i686-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/x86/musl` |
-| [dust-v1.2.6-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
-| [dust-v1.2.6-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
-| [dust-v1.2.6-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
-| [dust-v1.2.6-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
-| [dust-v1.2.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
-| [dust-v1.2.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.6/dust-v1.2.6-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [du-dust_1.2.7-1_amd64.deb](https://github.com/bootandy/dust/releases/download/v1.2.7/du-dust_1.2.7-1_amd64.deb) | 932.3 KiB | `runtime/deb/amd64` |
+| [du-dust_1.2.7-1_i386.deb](https://github.com/bootandy/dust/releases/download/v1.2.7/du-dust_1.2.7-1_i386.deb) | 923.5 KiB | `runtime/deb/i386` |
+| [dust-v1.2.7-aarch64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-aarch64-apple-darwin.tar.gz) | 1022.7 KiB | `native/darwin/arm64` |
+| [dust-v1.2.7-aarch64-pc-windows-gnullvm.zip](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-aarch64-pc-windows-gnullvm.zip) | 990.0 KiB | `native/win/arm64` |
+| [dust-v1.2.7-aarch64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-aarch64-pc-windows-msvc.zip) | 973.5 KiB | `native/win/arm64` |
+| [dust-v1.2.7-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-aarch64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [dust-v1.2.7-aarch64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-aarch64-unknown-linux-musl.tar.gz) | 1.1 MiB | `native/linux/arm64/musl` |
+| [dust-v1.2.7-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-arm-unknown-linux-gnueabihf.tar.gz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [dust-v1.2.7-arm-unknown-linux-musleabi.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-arm-unknown-linux-musleabi.tar.gz) | 1.1 MiB | `native/linux/arm/musl` |
+| [dust-v1.2.7-i686-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-i686-pc-windows-msvc.zip) | 963.7 KiB | `native/win/x64` |
+| [dust-v1.2.7-i686-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-i686-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x86/glibc` |
+| [dust-v1.2.7-i686-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-i686-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x86/musl` |
+| [dust-v1.2.7-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-riscv64gc-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/riscv64/glibc` |
+| [dust-v1.2.7-x86_64-apple-darwin.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-x86_64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/x64` |
+| [dust-v1.2.7-x86_64-pc-windows-gnu.zip](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-x86_64-pc-windows-gnu.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.7-x86_64-pc-windows-msvc.zip](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-x86_64-pc-windows-msvc.zip) | 1.0 MiB | `native/win/x64` |
+| [dust-v1.2.7-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-x86_64-unknown-linux-gnu.tar.gz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [dust-v1.2.7-x86_64-unknown-linux-musl.tar.gz](https://github.com/bootandy/dust/releases/download/v1.2.7/dust-v1.2.7-x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -95,4 +96,4 @@ dust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T05:52:19Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T05:53:22Z._
