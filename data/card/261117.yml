@@ -1,0 +1,145 @@
+about:
+  description: "A more intuitive version of du in rust"
+  license: Apache-2.0
+  homepage: 
+  head: 079c552
+  archived: false
+  latestVersion: "v1.2.7"
+  latestRelease: "v1.2.7"
+  latestPrerelease: "v0.7.1.alpha4"
+  collectedAt: 2026-11-17T09:06:16Z
+timeline:
+  created: 2018-03-16
+  lastCommit: 2026-11-01
+  lastVersion: 2026-11-01
+  lastRelease: 2026-11-01
+  lastPrerelease: 2021-09-20
+popularity:
+  star: 12643
+  watcher: 37
+  fork: 317
+  release: 52
+  contributor: 90
+  pullRequest: 374
+  issue: 257
+language:
+  Rust: 172391
+  Shell: 20743
+  PowerShell: 13820
+  Elvish: 7289
+  Roff: 6332
+  RenderScript: 1
+totalBytes: 220576
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 1
+    mergedPR: 5
+    openPR: 8
+    closedIssue: 2
+    openIssue: 2
+    commit: 6
+  last60d:
+    since: 2026-09-18
+    release: 1
+    mergedPR: 10
+    openPR: 9
+    closedIssue: 4
+    openIssue: 2
+    commit: 11
+  last90d:
+    since: 2026-08-19
+    release: 3
+    mergedPR: 17
+    openPR: 9
+    closedIssue: 4
+    openIssue: 2
+    commit: 17
+  last180d:
+    since: 2026-05-21
+    release: 3
+    mergedPR: 40
+    openPR: 9
+    closedIssue: 9
+    openIssue: 3
+    commit: 48
+  last360d:
+    since: 2025-11-22
+    release: 4
+    mergedPR: 56
+    openPR: 9
+    closedIssue: 17
+    openIssue: 5
+    commit: 76
+  last720d:
+    since: 2024-11-27
+    release: 9
+    mergedPR: 97
+    openPR: 10
+    closedIssue: 53
+    openIssue: 7
+    commit: 127
+total:
+  release: 52
+  mergedPR: 295
+  openPR: 10
+  closedIssue: 250
+  openIssue: 7
+  commit: 648
+---
+path: /home/runner/.x-repo/github.com/bootandy/dust
+collectedAt: 2026-11-17T09:06:16Z
+loc:
+  Rust:
+    code: 3966
+    comments: 423
+    blanks: 575
+    files: 17
+  Sh:
+    code: 231
+    comments: 36
+    blanks: 53
+    files: 4
+  Bash:
+    code: 212
+    comments: 0
+    blanks: 3
+    files: 1
+  PowerShell:
+    code: 116
+    comments: 3
+    blanks: 9
+    files: 2
+  Toml:
+    code: 102
+    comments: 14
+    blanks: 24
+    files: 2
+  Elvish:
+    code: 97
+    comments: 0
+    blanks: 2
+    files: 1
+  Fish:
+    code: 52
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 115
+    blanks: 60
+    files: 1
+  Text:
+    code: 0
+    comments: 19
+    blanks: 5
+    files: 3
+total:
+  code: 4777
+  comments: 688
+  blanks: 732
+  files: 32
+---
+
+---
