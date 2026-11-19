@@ -24,6 +24,16 @@ Total: **4,776** lines of code across **26** files in the top 5 languages.
 | PowerShell | 116 | 3 | 9 | 2 |
 | Toml | 102 | 14 | 24 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.4 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/bootandy/dust>
@@ -37,22 +47,22 @@ Total: **4,776** lines of code across **26** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,643 · **Forks**: 317 · **Open issues**: 257 · **Contributors**: 90
+- **Stars**: 12,657 · **Forks**: 317 · **Open issues**: 257 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 295 · **Open PRs**: 10 · **Closed issues**: 250 · **Open issues**: 7 · **Commits**: 648
+- **Releases**: 52 · **Merged PRs**: 294 · **Open PRs**: 10 · **Closed issues**: 250 · **Open issues**: 7 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 5 | 8 | 2 | 2 | 6 |
-| last60d | 2026-09-18 | 1 | 10 | 9 | 4 | 2 | 11 |
-| 90d | 2026-08-19 | 3 | 17 | 9 | 4 | 2 | 17 |
-| last180d | 2026-05-21 | 3 | 40 | 9 | 9 | 3 | 48 |
-| 360d | 2025-11-22 | 4 | 56 | 9 | 17 | 5 | 76 |
-| last720d | 2024-11-27 | 9 | 97 | 10 | 53 | 7 | 127 |
+| 30d | 2026-10-20 | 1 | 4 | 8 | 2 | 2 | 5 |
+| last60d | 2026-09-20 | 1 | 9 | 9 | 4 | 2 | 10 |
+| 90d | 2026-08-21 | 2 | 16 | 9 | 4 | 2 | 16 |
+| last180d | 2026-05-23 | 3 | 39 | 9 | 9 | 3 | 47 |
+| 360d | 2025-11-24 | 4 | 54 | 9 | 17 | 5 | 75 |
+| last720d | 2024-11-29 | 9 | 96 | 10 | 52 | 7 | 127 |
 
 ## Release assets
 
@@ -86,4 +96,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:06:21Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:13:35Z._
