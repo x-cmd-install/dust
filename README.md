@@ -14,11 +14,11 @@ x install dust
 
 ## Code insight
 
-Total: **4,776** lines of code across **26** files in the top 5 languages.
+Total: **4,847** lines of code across **26** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,966 | 423 | 575 | 17 |
+| Rust | 4,037 | 436 | 587 | 17 |
 | Sh | 231 | 36 | 53 | 4 |
 | Bash | 212 | 0 | 3 | 1 |
 | PowerShell | 116 | 3 | 9 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.7` (2026-11-01)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-19
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 12,657 · **Forks**: 317 · **Open issues**: 257 · **Contributors**: 89
+- **Stars**: 12,663 · **Forks**: 318 · **Open issues**: 257 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 294 · **Open PRs**: 10 · **Closed issues**: 250 · **Open issues**: 7 · **Commits**: 648
+- **Releases**: 52 · **Merged PRs**: 298 · **Open PRs**: 2 · **Closed issues**: 252 · **Open issues**: 5 · **Commits**: 653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 4 | 8 | 2 | 2 | 5 |
-| last60d | 2026-09-20 | 1 | 9 | 9 | 4 | 2 | 10 |
-| 90d | 2026-08-21 | 2 | 16 | 9 | 4 | 2 | 16 |
-| last180d | 2026-05-23 | 3 | 39 | 9 | 9 | 3 | 47 |
-| 360d | 2025-11-24 | 4 | 54 | 9 | 17 | 5 | 75 |
-| last720d | 2024-11-29 | 9 | 96 | 10 | 52 | 7 | 127 |
+| 30d | 2026-10-21 | 1 | 8 | 1 | 4 | 0 | 10 |
+| last60d | 2026-09-21 | 1 | 13 | 1 | 6 | 0 | 15 |
+| 90d | 2026-08-22 | 2 | 20 | 1 | 6 | 0 | 21 |
+| last180d | 2026-05-24 | 3 | 43 | 1 | 11 | 1 | 52 |
+| 360d | 2025-11-25 | 4 | 58 | 1 | 18 | 3 | 80 |
+| last720d | 2024-11-30 | 9 | 100 | 2 | 54 | 5 | 132 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for dust lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:13:35Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:05:47Z._
