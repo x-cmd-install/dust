@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 955428,
       "digest": "sha256:ff66d266591b0f73c05bd42ccffe7f19779ae48fe8dd50c581726ec34886fb27",
-      "download_count": 89,
+      "download_count": 107,
       "created_at": "2026-11-25T10:42:18Z",
       "updated_at": "2026-11-25T10:42:18Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/du-dust_1.2.8-1_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 946972,
       "digest": "sha256:d4d906d34b28c08a8684e277540ae6c782b80209806da8cc158e233a2341c4f8",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-25T10:42:07Z",
       "updated_at": "2026-11-25T10:42:07Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/du-dust_1.2.8-1_i386.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1054151,
       "digest": "sha256:829b1223d968ec84b7e0f2374971f77a9b7443d99a7dfbbaa68bc374a0fe8a93",
-      "download_count": 314,
+      "download_count": 452,
       "created_at": "2026-11-25T10:41:37Z",
       "updated_at": "2026-11-25T10:41:38Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1018412,
       "digest": "sha256:04d84e31348154784b6c141ec3760b76f8a2de68f394aee4a7cc0677bc771a5c",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-25T10:43:11Z",
       "updated_at": "2026-11-25T10:43:11Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-pc-windows-gnullvm.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1000695,
       "digest": "sha256:7b4c75459fe736d7c08a56d6e4e0824388ca604aefdc01372723962e16e44558",
-      "download_count": 50,
+      "download_count": 57,
       "created_at": "2026-11-25T10:41:50Z",
       "updated_at": "2026-11-25T10:41:51Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1115711,
       "digest": "sha256:261b5232d35313ae02e2a7488be4413fddae8e520a1f6866895a759008130b73",
-      "download_count": 121,
+      "download_count": 191,
       "created_at": "2026-11-25T10:41:34Z",
       "updated_at": "2026-11-25T10:41:34Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1135792,
       "digest": "sha256:02140655d64a490e1b1486ae4b55ff797c2e69666e1993cc3c42a2885e169d3c",
-      "download_count": 103,
+      "download_count": 131,
       "created_at": "2026-11-25T10:41:23Z",
       "updated_at": "2026-11-25T10:41:23Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-aarch64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1133951,
       "digest": "sha256:b8c0d1171838a24b6ee08143af6d8e6e442a5cac136b046bb92849a897864f8f",
-      "download_count": 14,
+      "download_count": 23,
       "created_at": "2026-11-25T10:41:53Z",
       "updated_at": "2026-11-25T10:41:54Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-arm-unknown-linux-gnueabihf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1153284,
       "digest": "sha256:fd7015fe41ff4000c796abb4dc4082b807add9dd84f1f61e59a856e5c06b22bb",
-      "download_count": 7,
+      "download_count": 13,
       "created_at": "2026-11-25T10:41:29Z",
       "updated_at": "2026-11-25T10:41:30Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-arm-unknown-linux-musleabi.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 993054,
       "digest": "sha256:f39dd3e36e73ba86c6e1b3f2d098f806e2c5afbdadba6e56fe185b1d28043316",
-      "download_count": 33,
+      "download_count": 43,
       "created_at": "2026-11-25T10:41:51Z",
       "updated_at": "2026-11-25T10:41:51Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-i686-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1205857,
       "digest": "sha256:364f0daa7558b69fa45f7503f636553617409c59cf9eb0686d0796ea6d54347e",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-11-25T10:41:43Z",
       "updated_at": "2026-11-25T10:41:43Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-i686-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1210828,
       "digest": "sha256:e5f6c0223528ade547c8987abaee895a5f95924b7ec6bb1970b7611d00432a53",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-25T10:42:07Z",
       "updated_at": "2026-11-25T10:42:07Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-i686-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1134059,
       "digest": "sha256:105774b7e3d555937bcfdc1808122d9995e78fc9072d05f57671b9041ea20914",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-25T10:41:36Z",
       "updated_at": "2026-11-25T10:41:37Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1131193,
       "digest": "sha256:e875ace7b7b5aa06467375c5d297110005c48a9f16c8a38c43981f14d325372f",
-      "download_count": 90,
+      "download_count": 113,
       "created_at": "2026-11-25T10:42:05Z",
       "updated_at": "2026-11-25T10:42:05Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1103994,
       "digest": "sha256:d45f24d6a79cfdad4e6acfd73482932c3660c468b70d72fc23fc4447498e250d",
-      "download_count": 215,
+      "download_count": 436,
       "created_at": "2026-11-25T10:42:18Z",
       "updated_at": "2026-11-25T10:42:18Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-x86_64-pc-windows-gnu.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1098572,
       "digest": "sha256:adfbdab0765c72e5e3a8c43ae9e92f4076cdb30c6364b68817301fb85fe44ecd",
-      "download_count": 784,
+      "download_count": 992,
       "created_at": "2026-11-25T10:41:58Z",
       "updated_at": "2026-11-25T10:41:58Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-x86_64-pc-windows-msvc.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1197230,
       "digest": "sha256:e727d3c1d7891038a14443657c09586fa33ad77757816709129b0b06cd165c02",
-      "download_count": 1322,
+      "download_count": 1913,
       "created_at": "2026-11-25T10:41:53Z",
       "updated_at": "2026-11-25T10:41:53Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-x86_64-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1260020,
       "digest": "sha256:4480bb9a3936f23cd9a1d5681618821f7f431ae47af0794be99f2baa5a88a60f",
-      "download_count": 550,
+      "download_count": 699,
       "created_at": "2026-11-25T10:42:18Z",
       "updated_at": "2026-11-25T10:42:18Z",
       "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.8/dust-v1.2.8-x86_64-unknown-linux-musl.tar.gz"
@@ -690,14 +690,14 @@
   "body": "",
   "reactions": {
     "url": "https://api.github.com/repos/bootandy/dust/releases/457969450/reactions",
-    "total_count": 7,
-    "+1": 7,
+    "total_count": 10,
+    "+1": 8,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
-    "eyes": 0
+    "eyes": 1
   }
 }
